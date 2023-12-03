@@ -22,3 +22,5 @@ To build points on each other, we can use a linear structure avoiding backward a
 * Avoid excessive or inappropriate use of specialized terminology.
 * Limit the use of personal nouns, avoid informal tone, wordiness, vague expressions, and overuse of lists.
 * Focus on methodology, analysis, and interpretation of findings rather than excessive descriptive writing.
+
+[← Previous: Introduction](Introduction.md) | [Next:NoteTaking Strategies](NoteTakingStrategies.md)
