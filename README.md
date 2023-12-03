@@ -16,7 +16,7 @@ This tutorial is intended for students, researchers, and professionals who are l
 3. [Effective Note-Taking Strategies](./NoteTakingStrategies.md)
 4. [Citing Sources and References](./CitingSources.md)
 5. [Utilizing Markdown for Academic Purposes](./MarkdownAcademic.md)
-6. [Conclusion and Further Resources](./Conlusion.md)
+6. [Conclusion and Further Resources](./Conclusion.md)
 
 ## Navigation
 - [Next: Introduction to Academic Writing](./Introduction.md)
