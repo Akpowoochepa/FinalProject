@@ -5,7 +5,7 @@ Academic writing involves conveying ideas, making arguments, and engaging in sch
 ## Examples of academic writing
 *Literary Analysis: "An essay that examines and interprets various elements of a literary work, such as theme, character, and plot."
 *Research Papers: "A detailed study or investigation conducted on a specific topic, utilizing data and evidence to support a thesis or argument."
-Dissertations: "A substantial piece of academic writing based on original research, typically submitted as part of a doctoral degree."
+*Dissertations: "A substantial piece of academic writing based on original research, typically submitted as part of a doctoral degree."
 
 ## Key characteristics of academic writing
  * Clear and limited focus
