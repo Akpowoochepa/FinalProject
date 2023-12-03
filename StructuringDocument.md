@@ -15,10 +15,10 @@ To build points on each other, we can use a linear structure avoiding backward a
 * Conclude with a wrao up linking to the overall argument or the next paragraph.
 
 ## Complexity and Higher-Order Thinking
-*Address complex issues requiring critical, reflective, logical, and creative thinking.
-*Summarize complex information into a well-organized synthesis of ideas, concepts, and recommendations​
+* Address complex issues requiring critical, reflective, logical, and creative thinking.
+* Summarize complex information into a well-organized synthesis of ideas, concepts, and recommendations​
 
 # Common Mistakes to Avoid 
-*Avoid excessive or inappropriate use of specialized terminology.
-*Limit the use of personal nouns, avoid informal tone, wordiness, vague expressions, and overuse of lists.
-*Focus on methodology, analysis, and interpretation of findings rather than excessive descriptive writing.
+* Avoid excessive or inappropriate use of specialized terminology.
+* Limit the use of personal nouns, avoid informal tone, wordiness, vague expressions, and overuse of lists.
+* Focus on methodology, analysis, and interpretation of findings rather than excessive descriptive writing.
