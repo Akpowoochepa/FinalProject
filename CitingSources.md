@@ -26,3 +26,6 @@ This document lists all the sources cited in the tutorial. Proper citation is cr
 
 ## Conclusion
 The sources listed here have been invaluable in compiling the tutorial content. They provide additional insights and detailed explanations that can further aid in understanding academic writing and note-taking strategies.
+
+
+[← Previous: NoteTaking Strategies](NoteTakingStrategies.md) | [Next:Markdown for Academics](MarkdownAcademic.md)
