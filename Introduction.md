@@ -25,3 +25,6 @@ Mistakes in academic writing include
 * informal language - Academic writing is formal in tone and should not include slang, idioms, or conversational language.
 * failure to cite sources properly - Keep track of your source materials throughout the research and writing process.
 
+[← Previous: ReadMe](README.md) | [Next: DocumentStructure](StructuringDocument.md)
+
+
