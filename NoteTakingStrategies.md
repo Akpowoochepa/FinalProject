@@ -4,7 +4,7 @@ Effective note-taking is a critical skill for academic success. It helps in orga
 ## Key Strategies 
 
 ### Write Concisely 
-- **Focus on Key Points**: Write phrases, not full sentences. Record only the essential keywords that capture the core idea. Avoid filter words like "the" and "a".
+- **Focus on Key Points**: Write phrases, not full sentences. Record only the essential keywords that capture the core idea and avoid filter words like "the" and "a".
 - **Paraphrasing**: Write notes in your own words. This aids in comprehension and memory retention. Paraphrase where possible, excpet for information that needs to be noted verbatim.
 
 ### Organize Your Notes
