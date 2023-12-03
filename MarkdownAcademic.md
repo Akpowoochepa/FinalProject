@@ -36,3 +36,6 @@ Markdown is a versatile tool for academic writing and collaboration. Its simplic
 ## Conclusion
 
 Markdown is a powerful tool in the academic toolkit. It anges from writing research papers to facilitating collaborative projects, making it a valuable skill for students and educators alike.
+
+
+[← Previous: NoteTaking Strategies](NoteTakingStrategies.md) | [Next: Conclusion](Conclusion.md)
