@@ -15,7 +15,7 @@ This document lists all the sources cited in the tutorial. Proper citation is cr
 3. **UNSW - Techniques and Tips for Listening and Note Taking**:
    - Effective strategies for note-taking during lectures.
    - URL: [UNSW Note Taking Tips](https://www.student.unsw.edu.au/notetaking-tips)
-
+     
 4.**ThoughtCo Article on Academic Writing**:
   - An Introduction to Academic Writing.
   - URL:[An Introduction to Academic Writing](https://www.thoughtco.com/what-is-academic-writing-1689052)
