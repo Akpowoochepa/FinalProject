@@ -25,3 +25,7 @@ Effective note-taking is a critical skill for academic success. It helps in orga
 ## Conclusion
 
 Effective note-taking is a dynamic skill that requires practice and adaptation to your personal learning style. Experiment with these strategies to find what works best for you, and remember, the goal is to create notes that are helpful for your understanding and review.
+
+[← Previous: NoteTaking Strategies](NoteTakingStrategies.md) | [Next: Sources](CitingSources.md)
+
+
