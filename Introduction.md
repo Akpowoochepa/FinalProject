@@ -14,5 +14,14 @@ Academic writing involves conveying ideas, making arguments, and engaging in sch
  * Evidence-based arguments
  * An impersonal tone.
 
-# Thesis Statement
+## Thesis Statement
 The thesis is crucial in academic writing, serving as the central argument and focus of the paper. It should be clear, concise, and consistently referenced throughout the writing process.
+
+## Mistakes to avoid 
+Mistakes in academic writing include
+* wordiness
+* vague or missing thesis statements
+* informal language
+* lack of analysis
+* failure to cite sources properly.
+
