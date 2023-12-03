@@ -4,19 +4,19 @@ Academic writing involves conveying ideas, making arguments, and engaging in sch
 
 ## Examples of academic writing
 * Literary Analysis: An essay that examines and interprets various elements of a literary work, such as theme, character, and plot.
-* Research Papers: A detailed study or investigation conducted on a specific topic, utilizing data and evidence to support a thesis or argument."
+* Research Papers: A detailed study or investigation conducted on a specific topic, utilizing data and evidence to support a thesis or argument.
 * Dissertations: A substantial piece of academic writing based on original research, typically submitted as part of a doctoral degree.
 
 ## Key characteristics of academic writing
- * Clear and limited focus
- * logical structure
+ * Clear and limited focus - all content serves the purpose of supporting the thesis statement.
+ * logical structure - All academic writing follows a logical, straightforward structure.
  * Evidence-based arguments: This involves supporting your claims with data, scholarly articles, and reliable sources to lend credibility to your arguments.
- * An impersonal tone.
+ * An impersonal tone - Academic writing avoids emotional, inflammatory, or otherwise biased language.
 
 ## Thesis Statement
 The thesis is crucial in academic writing, serving as the central argument and focus of the paper. It should be clear, concise, and consistently referenced throughout the writing process.
 
-Example of a Thesis Statement: "This paper explores the impact of social media on mental health, arguing that excessive use of social media can lead to increased feelings of anxiety and isolation among teenagers."
+Example of a Thesis Statement: This paper explores the impact of social media on mental health, arguing that excessive use of social media can lead to increased feelings of anxiety and isolation among teenagers.
 
 ## Mistakes to avoid 
 Mistakes in academic writing include
