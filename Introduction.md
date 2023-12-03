@@ -19,9 +19,8 @@ The thesis is crucial in academic writing, serving as the central argument and f
 
 ## Mistakes to avoid 
 Mistakes in academic writing include
-* wordiness
-* vague or missing thesis statements
-* informal language
-* lack of analysis
-* failure to cite sources properly.
+* wordiness - The goal of academic writing is to convey complex ideas in a clear, concise manner.
+* vague or missing thesis statements - the thesis statement must be clear, and each body paragraph needs to tie into that thesis.
+* informal language - Academic writing is formal in tone and should not include slang, idioms, or conversational language.
+* failure to cite sources properly - Keep track of your source materials throughout the research and writing process.
 
