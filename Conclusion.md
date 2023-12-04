@@ -18,7 +18,7 @@ Throughout this tutorial, we explored various aspects of academic writing and ef
 ## Final Thoughts
 
 The goal of this tutorial was to provide you with the tools and knowledge to improve your academic writing and note-taking skills using Markdown. 
-We hope this tutorial serves as a valuable resource in your academic endeavors. Happy writing and note-taking!
+I hope this tutorial serves as a valuable resource in your academic endeavors. Happy writing and note-taking!
 
 ---
 *End of Tutorial*
